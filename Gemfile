@@ -53,6 +53,7 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 <<<<<<< HEAD
+<<<<<<< HEAD
 gem 'devise'
 gem 'pry-rails'
 =======
@@ -61,3 +62,6 @@ gem 'tzifo-data, platforms: [:mingw,'
 gem 'pry-rails'
 gem 'devise'
 >>>>>>> 6ce66b3ab9a3055ee3b4c6895dd2a17719764cc3
+=======
+gem 'pry-rails'
+>>>>>>> parent of 604ec7a (トップページ　タイトルの追加)
